@@ -1,5 +1,3 @@
-
-
 import { expect } from 'chai'
 import oo from '../object_oriented.js'
 import functional from '../functional.js'
@@ -92,4 +90,3 @@ describe('Multiple Paradigms:', () => {
     // testNested(['paragraph', '<p>'])
   })
 })
-
