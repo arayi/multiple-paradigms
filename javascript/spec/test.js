@@ -1,4 +1,4 @@
-import { expect } from 'chai'
+import chai, { expect } from 'chai'
 import oo from '../object_oriented.js'
 import functional from '../functional.js'
 import imperative from '../imperative.js'
